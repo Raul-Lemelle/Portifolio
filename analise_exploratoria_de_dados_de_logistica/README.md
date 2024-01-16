@@ -9,11 +9,18 @@ Instalar os pacotes e bibliotecas para o ambiente de desenvolvimento.
 
 pip install pandas seaborn geopandas
 
-import json # manipulação
-import numpy as np # manipulação
-import pandas as pd # manipulação
-import matplotlib.pyplot as plt # visualização
-import seaborn as sns # visualização
-import geopandas # visualização
-import geopy # visualização
-from geopy.geocoders import Nominatim # manipulação
+import json
+
+import numpy as np
+
+import pandas as pd
+
+import matplotlib.pyplot as plt 
+
+import seaborn as sns
+
+import geopandas
+
+import geopy 
+
+from geopy.geocoders import Nominatim 
