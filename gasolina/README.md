@@ -7,5 +7,4 @@ Foi gerado o gráfico gasolina.png com base nos dados gasolina.csv, e o código 
 # Preparação do Ambiente
 Instalar as bibliotecas para o ambiente de desenvolvimento.
 
-pip install pandas 
-pip install seaborn 
+pip install pandas seaborn 
