@@ -26,7 +26,7 @@ O aumento nas opções de streaming de música e a diversidade de preferências 
 
 1. **Requisitos:** Certifique-se de ter as bibliotecas necessárias instaladas (veja o arquivo `requirements.txt`).
    
-2. **Carregar Dados:** Link do dataset: "https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre/data".
+2. **Fonte de Dados:** Link: "https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre/data".
 
 3. **Treinamento do Modelo:** Execute o script Python para treinar o modelo.
 
