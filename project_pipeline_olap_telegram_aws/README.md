@@ -13,4 +13,5 @@ Este projeto utiliza Python para coletar informações de um grupo do Telegram a
 # Descrição
 O arquivo "project_pipeline_olap_telegram_aws.ipynb" inclui uma explicação detalhada do código, apresentada passo a passo, acompanhada de comentários informativos. Ao término, são consolidados os principais insights abordados no formato de um resumo.
 
-
+# Arquitetura
+![Pipeline](https://github.com/Raul-Lemelle/portifolio/blob/main/project_pipeline_olap_telegram_aws/arquitetura.png)
